@@ -1,0 +1,2 @@
+# VSCode template for Mac
+
